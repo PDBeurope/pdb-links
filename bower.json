@@ -1,0 +1,26 @@
+{
+  "name": "pdb-links",
+  "version": "0.1.0",
+  "main": "./build/pdb.links.min.js",
+  "authors": [
+    "Mandar Deshpande <mandar@ebi.ac.uk>"
+  ],
+  "description": "PDB Component using AngularJS to add a popup containing links to all the wwPDB resources for a given PDB entry.",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": ["BioJS", "PDB component", "PDB links", "PDBe"],
+  "license": "Apache-2.0",
+  "homepage": "http://www.ebi.ac.uk/pdbe/pdb-component-library/doc.html#a_pdbLinks",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.4.7",
+	"d3": "4.2.2"
+  }
+}

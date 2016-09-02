@@ -1,0 +1,57 @@
+.pcl-pdblinks-wrapper{
+  position: absolute; 
+  display: none; 
+  padding: 4px; 
+  z-index: 10000; 
+  white-space: nowrap; 
+  top: 679px; 
+  left: 967px; 
+  background-color: rgb(255, 255, 255);
+  
+  border: 1px solid #ccc;
+  -moz-box-shadow: 3px 3px 10px #aaa;
+  -webkit-box-shadow: 3px 3px 10px #aaa;
+  box-shadow: 3px 3px 10px #aaa;
+  border-radius: 3px;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  -khtml-border-radius: 3px;
+  
+  line-height: 25px;
+}
+
+.pcl-pdblinks-cross-icon {
+  float:right;
+  margin-left:5px;
+  margin-bottom:5px;
+  padding:3px;
+  cursor:pointer;
+}
+
+.pcl-pdblinks-cross-icon-abs {
+  position: absolute;
+  height: 8px !important;
+  top: 3px;
+  right: 4px;
+  cursor:pointer;
+}
+
+.pcl-pdblinks-logo-img {
+  height:32px !important;
+  vertical-align:middle;
+  border: none;
+}
+
+.pcl-pdblinks-a {
+ display: inline-block;
+}
+
+.pcl-pdblinks-logo-text-a, .pcl-pdblinks-logo-text-a:hover, 
+.pcl-pdblinks-logo-text-a:visited {
+  font-size: 12px;
+  text-decoration: none;
+  color: #990000;
+  display: inline-block;
+  line-height: 32px;
+  border-bottom: none !important;
+}

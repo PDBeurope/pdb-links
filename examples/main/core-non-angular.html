@@ -1,0 +1,20 @@
+<html>
+    <head>
+		<!-- AngularJS -->
+		<script src="../../bower_components/angular/angular.min.js"></script>
+		<!-- PDB Links CSS and Script -->
+		<link rel="stylesheet" href="../../build/pdb.links.min.css" />
+		<script src="../../build/pdb.links.core.min.js"></script>
+		<script>
+		(function () {
+			'use strict';
+			angular.element(document).ready(function () {
+				angular.bootstrap(document, ['pdb.links']);
+			});
+		}());
+		</script>
+    </head>
+    <body>
+		<p>Click on the PDB ID to see all the wwwPDB resources links : <a class='pdb-links' pdb-id='1cbs' href='javascript:void(0);'>1cbs</a> </p>
+	</body>
+</html>

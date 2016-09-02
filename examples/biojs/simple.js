@@ -1,0 +1,1 @@
+var pdblinks = require("biojs-vis-pdb-links");
