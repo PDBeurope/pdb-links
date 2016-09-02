@@ -29,14 +29,6 @@ See the examples/main/simple.html page for more information.
 
 [![NPM version](http://img.shields.io/npm/v/pdb-links.svg)](https://www.npmjs.org/package/pdb-links) 
 
-## Getting Started
-Install the module with: `npm install biojs-vis-pdb-links`
-
-```javascript
-var links = require('biojs-vis-pdb-links');
-links.hello("biojs"); // "hello biojs"
-```
-
 ## Documentation
 Please refer <a target="_blank" href="http://www.ebi.ac.uk/pdbe/pdb-component-library/doc.html#a_pdbLinks">PDB Links</a> for details about the available attributes / parameters.
 
