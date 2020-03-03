@@ -38,7 +38,7 @@ All contributions are welcome. Please refer <a target="_blank" href="http://www.
 
 ## Support
 
-If you have any problem or suggestion please open an issue [here](https://github.com/mandarsd/pdb-links/issues).
+If you have any problem or suggestion please open an issue [here](https://github.com/PDBeurope/pdb-links/issues).
 Also you can <a href="http://www.ebi.ac.uk/pdbe/about/contact" target="_blank">contact us here</a> for support, feedback or to report any issues.
 
 ## License 
