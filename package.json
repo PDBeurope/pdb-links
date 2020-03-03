@@ -2,17 +2,17 @@
   "name": "pdb-links",
   "description": "PDB Component using AngularJS to add a popup containing links to all the wwPDB resources for a given PDB entry.",
   "version": "0.1.0",
-  "homepage": "https://github.com/mandarsd/pdb-links",
+  "homepage": "https://github.com/PDBeurope/pdb-links",
   "author": {
     "name": "Mandar Deshpande",
     "email": "mandar@ebi.ac.uk"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mandarsd/pdb-links.git"
+    "url": "git://github.com/PDBeurope/pdb-links.git"
   },
   "bugs": {
-    "url": "https://github.com/mandarsd/pdb-links/issues"
+    "url": "https://github.com/PDBeurope/pdb-links/issues"
   },
   "license": "Apache-2.0",
   "main": "index.js",
